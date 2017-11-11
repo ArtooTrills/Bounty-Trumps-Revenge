@@ -1,8 +1,8 @@
 # Trump's Revenge
 
-Trump has done it again. He posted something silly and controversial just as usual. This time the internet wanted to take him on and ended up breaking twitter. Even after many attempts Twitter couldn't bring its system live. The reason, Trump has taken revenge against the employee that disabled his account for 11 mins, by deleting Twitter's streaming analytics service.
+Trump has done it again. He posted something silly and controversial just as usual. This time the internet wanted to take him on and ended up breaking Twitter. Even after many attempts Twitter couldn't bring its system live. The reason - Trump has taken revenge against the employee that disabled his account for 11 mins by deleting Twitter's streaming analytics service code.
 
-Jack Dorsey personally reaches out to you. You are his only hope. He has the whole thing written out on his napkin and he just needs you to build it. Are you up for the challenge? Here is the transcript of the conversation:
+Jack Dorsey personally reaches out to you. You are his only hope. He has the whole thing written out on his napkin and he just needs you to build it. Are you up for the challenge? Here is the transcript of your conversation:
 
 > JD: "Hey, please help me. I wouldn't come to you if I could do it alone."
 
@@ -10,11 +10,11 @@ Jack Dorsey personally reaches out to you. You are his only hope. He has the who
 
 > JD: "Thanks! I found my initial notes before they kicked me out the first time. It's not great but its the only thing I have.
 
-> JD: "Download the dataset from this link : ..... Build a simple model that accepts categorical and numeric values in the vector and gives you a result."
+> JD: "Download the dataset from the internet for Twitter. Build a simple model that accepts at least one categorical and one numerical values in the vector and gives you a result."
 
 > You: "What kind of a result? What kind of a model?" 
 
-> JD: "Anything - you decide. We have two hours! I believe in you"
+> JD: "Random Forest, Bayes classifier. Anything - you decide. We have two hours! I believe in you"
 
 > You: "Ok - I will make something up!"
 
